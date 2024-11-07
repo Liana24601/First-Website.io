@@ -1,10 +1,10 @@
 img {
-  length: 40%;
-  width: 40%;
+  length: 70%;
+  width: 70%;
 }
 body {
   text-align: center;
   font-family: Calibri;
-  color: #000000;
+  background-color: #000000;
   text-size-adjust: 200;
 }
